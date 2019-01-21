@@ -1,2 +1,2 @@
 # Password-Guessing-Game-
-Guess a 4-digit password with hints along the way
+In this game, the computer will randomly generate a 4 digit password. You will have multiple attempts to guess the password and the computer will provide useful hints along the way. 
